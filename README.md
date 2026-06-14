@@ -23,4 +23,4 @@ A Half Adder is a combinational circuit that performs the addition of two 1-bit 
 *   *Language:* Verilog HDL
 *   *Simulation Engine:* Icarus Verilog via EDA Playground
 *   *Version Control:* Git & GitHub Web
-*
+
